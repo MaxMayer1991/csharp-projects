@@ -1,0 +1,14 @@
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\bin\Debug\net8.0\LeetCodeProblems.exe
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\bin\Debug\net8.0\LeetCodeProblems.deps.json
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\bin\Debug\net8.0\LeetCodeProblems.runtimeconfig.json
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\bin\Debug\net8.0\LeetCodeProblems.dll
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\bin\Debug\net8.0\LeetCodeProblems.pdb
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\LeetCodeProblems.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\LeetCodeProblems.AssemblyInfoInputs.cache
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\LeetCodeProblems.AssemblyInfo.cs
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\LeetCodeProblems.csproj.CoreCompileInputs.cache
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\LeetCodeProblems.dll
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\refint\LeetCodeProblems.dll
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\LeetCodeProblems.pdb
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\LeetCodeProblems.genruntimeconfig.cache
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\ref\LeetCodeProblems.dll

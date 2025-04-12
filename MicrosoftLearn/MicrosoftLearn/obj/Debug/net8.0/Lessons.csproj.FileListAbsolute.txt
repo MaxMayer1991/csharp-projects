@@ -1,0 +1,14 @@
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\bin\Debug\net8.0\Lessons.exe
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\bin\Debug\net8.0\Lessons.deps.json
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\bin\Debug\net8.0\Lessons.runtimeconfig.json
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\bin\Debug\net8.0\Lessons.dll
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\bin\Debug\net8.0\Lessons.pdb
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\Lessons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\Lessons.AssemblyInfoInputs.cache
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\Lessons.AssemblyInfo.cs
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\Lessons.csproj.CoreCompileInputs.cache
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\Lessons.dll
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\refint\Lessons.dll
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\Lessons.pdb
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\Lessons.genruntimeconfig.cache
+D:\Studia\Projects\CSharp\MicrosoftLearn\MicrosoftLearn\obj\Debug\net8.0\ref\Lessons.dll

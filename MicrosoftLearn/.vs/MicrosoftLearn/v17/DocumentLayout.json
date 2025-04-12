@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studia\\Projects\\CSharp\\MicrosoftLearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32578760-A27E-4643-94C6-B078C911B535}|MicrosoftLearn\\Lessons.csproj|d:\\studia\\projects\\csharp\\microsoftlearn\\microsoftlearn\\starter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32578760-A27E-4643-94C6-B078C911B535}|MicrosoftLearn\\Lessons.csproj|solutionrelative:microsoftlearn\\starter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32578760-A27E-4643-94C6-B078C911B535}|MicrosoftLearn\\Lessons.csproj|d:\\studia\\projects\\csharp\\microsoftlearn\\microsoftlearn\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32578760-A27E-4643-94C6-B078C911B535}|MicrosoftLearn\\Lessons.csproj|solutionrelative:microsoftlearn\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32578760-A27E-4643-94C6-B078C911B535}|MicrosoftLearn\\Lessons.csproj|d:\\studia\\projects\\csharp\\microsoftlearn\\microsoftlearn\\lessons.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32578760-A27E-4643-94C6-B078C911B535}|MicrosoftLearn\\Lessons.csproj|solutionrelative:microsoftlearn\\lessons.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Studia\\Projects\\CSharp\\MicrosoftLearn\\MicrosoftLearn\\Final\\Program.cs",
+              "RelativeDocumentMoniker": "MicrosoftLearn\\Final\\Program.cs",
+              "ToolTip": "D:\\Studia\\Projects\\CSharp\\MicrosoftLearn\\MicrosoftLearn\\Final\\Program.cs",
+              "RelativeToolTip": "MicrosoftLearn\\Final\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:05:02.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Studia\\Projects\\CSharp\\MicrosoftLearn\\MicrosoftLearn\\Starter\\Program.cs",
+              "RelativeDocumentMoniker": "MicrosoftLearn\\Starter\\Program.cs",
+              "ToolTip": "D:\\Studia\\Projects\\CSharp\\MicrosoftLearn\\MicrosoftLearn\\Starter\\Program.cs",
+              "RelativeToolTip": "MicrosoftLearn\\Starter\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwDAAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:04:54.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lessons.csproj",
+              "DocumentMoniker": "D:\\Studia\\Projects\\CSharp\\MicrosoftLearn\\MicrosoftLearn\\Lessons.csproj",
+              "RelativeDocumentMoniker": "MicrosoftLearn\\Lessons.csproj",
+              "ToolTip": "D:\\Studia\\Projects\\CSharp\\MicrosoftLearn\\MicrosoftLearn\\Lessons.csproj",
+              "RelativeToolTip": "MicrosoftLearn\\Lessons.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-11T20:04:08.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
